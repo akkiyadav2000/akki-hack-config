@@ -2,6 +2,6 @@
   "version": "1.0.0",
   "esp_enabled": true,
   "aimbot_enabled": true,
-  "maintenance": false,
+  "maintenance": true,
   "message": "Hack v1 ready! Enjoy smooth ESP & Aimbot!"
 }
